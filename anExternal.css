@@ -1,0 +1,21 @@
+<!DOCTYPE css>
+body {
+  background-color: lightyellow;
+}
+
+h1 {
+  color: rgb(187, 255, 0);
+  margin-left: 20px;
+}
+
+img {
+    float: left;
+  }
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #b45c92;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;  
+}  
